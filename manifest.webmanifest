@@ -1,7 +1,7 @@
 {
   "name": "Solution preparation",
   "short_name": "Solutions",
-  "description": "How much to weigh or measure for any solution: solids, liquids, gases, buffers and dilutions.",
+  "description": "Exact amounts for preparing any solution: 415 reagents, buffers, dilutions and gases, calculated on your device.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
